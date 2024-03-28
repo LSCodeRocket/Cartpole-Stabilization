@@ -5,7 +5,7 @@
 Hopefully finish the wheels and find DC motor models to put into the project.
 
 ## March 27th
-Choose microcontroller, and motor drivers (possibly start writing code for the simulator)
+Choose microcontroller, and motor drivers
 
 ## March 28th
 Find model of microcontroller, motor drivers and breadboard/prototype board for electronics.
@@ -23,10 +23,10 @@ Its a holiday so break I guess or work on the next thing.
 Put everything together in an Assembly with the tracks (The table doesn't have to be modelled)
 
 ## April 2nd
-Start arduino simulation in Python (or if its written in C, start making the electornics instead)
+Start designing the electronics circuit
 
 ## April 3rd
-Hopefully finish Arduino simulation in Python (or if its written in C, finish making the electornics instead)
+Finish Designing the electronics circuit (if it only takes one day then start learning pybullet).
 
 ## April 4th
 Start learning PyBullet and making URDF files for the robot
@@ -41,7 +41,7 @@ Start Simulating the system in PyBullet and messing around for testing
 Make a PID controller in Python to work with PyBullet
 
 ## April 8th
-Using the simulator for arduino and the electronics -> write arduino code that does the PID control
+Write arduino code that does the PID control from the PyBullet sim code.
 
 ## April 9th
 Programmatically find the performance specifications of the system (how fast it goes... etc)
