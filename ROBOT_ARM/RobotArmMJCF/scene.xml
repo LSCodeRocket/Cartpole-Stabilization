@@ -21,7 +21,7 @@
     <geom name="floor" size="0 0 0.05" type="plane" material="groundplane"/>
     <body name="free_box" pos="-0.25 -0.25 1">
     <!-- Define the box geometry -->
-    <geom type="box" size="0.1 0.1 0.1" rgba="0.8 0.2 0.2 1"/>
+    <geom type="box" size="0.05 0.05 0.05" rgba="0.8 0.2 0.2 1"/>
     <!-- Add a free joint -->
     <joint type="free" name="free_joint"/>
 </body>
